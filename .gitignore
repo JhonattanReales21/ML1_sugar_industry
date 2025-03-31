@@ -1,5 +1,5 @@
-# Heavy data
-HISTORICO_SUERTES.xlsx
+# data
+data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
